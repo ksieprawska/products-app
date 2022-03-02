@@ -1,1 +1,1 @@
-console.log("Troch© szajsu") 
+console("Troch© ˜miecia") 
